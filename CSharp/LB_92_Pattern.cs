@@ -10,19 +10,20 @@
 //    {
 //        static void Main(string[] args)
 //        {
-//            Console.WriteLine("Enter number of rows : ");
-//            int n = int.Parse(Console.ReadLine());
-//            int num = 10;
-//            for (int i = 0; i < n; i++)
-//            {
-//                for (int j = n; j > i; j--)
-//                {
+           
+//                int start = 7;
 
-//                    Console.Write(num + " ");
-//                    num--;
+//                for (int row = 4; row >= 1; row--)
+//                {
+//                    for (int col = 0; col < row; col++)
+//                    {
+//                        Console.Write(start + col + " ");
+//                    }
+
+//                    Console.WriteLine();
+//                     start -= row - 1;
 //                }
-//                Console.WriteLine();
 //            }
 //        }
 //    }
-//}
+    

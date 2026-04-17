@@ -11,9 +11,9 @@
 //        static void Main(string[] args)
 //        {
 //            Console.WriteLine("Enter 4 :  ");
-//            int n=int.Parse(Console.ReadLine());
+//            int n = int.Parse(Console.ReadLine());
 //            int num = 10;
-//            for (int i = 0; i<n ; i++)
+//            for (int i = 0; i < n; i++)
 //            {
 //                for (int j = n; j > i; j--)
 //                {

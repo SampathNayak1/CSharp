@@ -6,19 +6,19 @@
 
 //namespace CSharp
 //{
-//    internal class LB_93_Pattern
+//    internal class LB_95
 //    {
 //        static void Main(string[] args)
 //        {
-//            Console.WriteLine("Enter your range : ");
-//            int n = int.Parse(Console.ReadLine());
-//            for (int i = n; i >= 1; i--)
+//            int start = 16;
+//            for(int row=6;row>=1;row--)
 //            {
-//                for (int j = 1; j <= i; j++)
+//                for(int col = 0; col < row; col++)
 //                {
-//                    Console.Write(j + " ");
+//                    Console.Write(start + col + " "); 
 //                }
 //                Console.WriteLine();
+//                start = start - (row - 1);
 //            }
 //        }
 //    }
