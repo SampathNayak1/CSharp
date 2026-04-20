@@ -151,6 +151,8 @@
     <Compile Include="PrimeNumber1.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Property_OOPS.cs" />
+    <Compile Include="SingleInheritence_OOPS.cs" />
     <Compile Include="Sorting.cs" />
     <Compile Include="Switch_ATM_PIN.cs" />
     <Compile Include="Switch_Calculator.cs" />
