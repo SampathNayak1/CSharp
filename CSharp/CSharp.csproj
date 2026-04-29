@@ -59,6 +59,7 @@
     <Compile Include="Array_Jagged5.cs" />
     <Compile Include="Array_MultiDimensinal2.cs" />
     <Compile Include="Array_Multidimensioal_Addition.cs" />
+    <Compile Include="Array_Multidimensional_Additon.cs" />
     <Compile Include="Array_MultiDimesinal5.cs" />
     <Compile Include="Array_MultiDimesional3.cs" />
     <Compile Include="Array_Multidimesional4.cs" />
@@ -70,6 +71,8 @@
     <Compile Include="Do_While_Loop2.cs" />
     <Compile Include="Do_While_Loop3.cs" />
     <Compile Include="Do_While_Loop4.cs" />
+    <Compile Include="Exception_ArgumentOutOfRange.cs" />
+    <Compile Include="Exception_FileNotFound.cs" />
     <Compile Include="factorial.cs" />
     <Compile Include="factorial1.cs" />
     <Compile Include="ForEach1.cs" />
@@ -133,6 +136,7 @@
     <Compile Include="LP8OddorNot.cs" />
     <Compile Include="LP9EvenorNot.cs" />
     <Compile Include="IfElseIf.cs" />
+    <Compile Include="MultiLevel_Inheritence.cs" />
     <Compile Include="MultipleIf.cs" />
     <Compile Include="Multiple_If.cs" />
     <Compile Include="N_Prime_Numbers.cs" />
@@ -145,6 +149,8 @@
     <Compile Include="OOPS_Public.cs" />
     <Compile Include="oop_Void_Method_Calcution.cs" />
     <Compile Include="oops1.cs" />
+    <Compile Include="Overloading_With_Differenttype_Parametrs.cs" />
+    <Compile Include="Overloading_With_different_Parametres.cs" />
     <Compile Include="Palindrome.cs" />
     <Compile Include="Pattern_Trangle_Numbers.cs" />
     <Compile Include="PrimeNumber.cs" />
