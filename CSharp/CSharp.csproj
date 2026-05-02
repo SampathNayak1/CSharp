@@ -71,8 +71,6 @@
     <Compile Include="Do_While_Loop2.cs" />
     <Compile Include="Do_While_Loop3.cs" />
     <Compile Include="Do_While_Loop4.cs" />
-    <Compile Include="Exception_ArgumentOutOfRange.cs" />
-    <Compile Include="Exception_FileNotFound.cs" />
     <Compile Include="factorial.cs" />
     <Compile Include="factorial1.cs" />
     <Compile Include="ForEach1.cs" />
@@ -88,6 +86,8 @@
     <Compile Include="For_Sum_of_Even.cs" />
     <Compile Include="For_Sum_of_Natural.cs" />
     <Compile Include="For_Sum_of_odd.cs" />
+    <Compile Include="Generic_Collection_Class.cs" />
+    <Compile Include="Generic_Collection_Example1.cs" />
     <Compile Include="If-Else_If.cs" />
     <Compile Include="IfElseIfClass1.cs" />
     <Compile Include="LB_112_Parameterized_Constructor.cs" />
