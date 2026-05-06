@@ -44,6 +44,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AdditionNumberSeries.cs" />
+    <Compile Include="Amstrong.cs" />
+    <Compile Include="AmstrongNumber.cs" />
     <Compile Include="Array1.cs" />
     <Compile Include="Array2.cs" />
     <Compile Include="Array3.cs" />
@@ -73,6 +75,7 @@
     <Compile Include="Do_While_Loop4.cs" />
     <Compile Include="factorial.cs" />
     <Compile Include="factorial1.cs" />
+    <Compile Include="FactorialofANumber.cs" />
     <Compile Include="ForEach1.cs" />
     <Compile Include="ForEach2.cs" />
     <Compile Include="ForEach3.cs" />
@@ -90,6 +93,7 @@
     <Compile Include="Generic_Collection_Example1.cs" />
     <Compile Include="If-Else_If.cs" />
     <Compile Include="IfElseIfClass1.cs" />
+    <Compile Include="LargestAmongThreeNumbers.cs" />
     <Compile Include="LB_112_Parameterized_Constructor.cs" />
     <Compile Include="LB_103_OOPS1.cs" />
     <Compile Include="LB_104_OOPS2.cs" />
@@ -139,6 +143,8 @@
     <Compile Include="MultiLevel_Inheritence.cs" />
     <Compile Include="MultipleIf.cs" />
     <Compile Include="Multiple_If.cs" />
+    <Compile Include="MultiplicationOfNumber.cs" />
+    <Compile Include="Number_RightAngleTrangle.cs" />
     <Compile Include="N_Prime_Numbers.cs" />
     <Compile Include="OOPS_COnstrucors.cs" />
     <Compile Include="OOPS_Constructor1.cs" />
@@ -152,14 +158,26 @@
     <Compile Include="Overloading_With_Differenttype_Parametrs.cs" />
     <Compile Include="Overloading_With_different_Parametres.cs" />
     <Compile Include="Palindrome.cs" />
+    <Compile Include="Patterns10x10.cs" />
     <Compile Include="Pattern_Trangle_Numbers.cs" />
+    <Compile Include="Plindrome_Num.cs" />
     <Compile Include="PrimeNumber.cs" />
     <Compile Include="PrimeNumber1.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Property_OOPS.cs" />
+    <Compile Include="ReverseaNumber.cs" />
     <Compile Include="SingleInheritence_OOPS.cs" />
     <Compile Include="Sorting.cs" />
+    <Compile Include="Star5,5.cs" />
+    <Compile Include="Star_Box.cs" />
+    <Compile Include="Star_Diamond.cs" />
+    <Compile Include="Star_Hallow_Pyramid.cs" />
+    <Compile Include="star_LeftAngleTriangle.cs" />
+    <Compile Include="Star_Pyramind.cs" />
+    <Compile Include="Star_ReverseTangle.cs" />
+    <Compile Include="Star_Space_RightAngleTriangle.cs" />
+    <Compile Include="SumOfNumbers.cs" />
     <Compile Include="Switch_ATM_PIN.cs" />
     <Compile Include="Switch_Calculator.cs" />
     <Compile Include="Switch_Electricity_Bill.cs" />
