@@ -22,7 +22,14 @@
 //                }
 //                for (int k = 1; k <= (2 * i - 1); k++)
 //                {
-//                    Console.Write("*");
+//                    if (k == 1 || k == (2 * i - 1) || i == rows)
+//                    {
+//                        Console.Write("*");
+//                    }
+//                    else
+//                    {
+//                        Console.Write(" ");
+//                    }
 //                }
 //                Console.WriteLine();
 //            }

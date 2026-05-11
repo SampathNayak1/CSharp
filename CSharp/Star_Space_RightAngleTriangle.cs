@@ -19,9 +19,15 @@
 //                    Console.Write(" ");
 //                }
 //                for (int k = 1; k <= i; k++)
-//                {
-//                    Console.Write("*");
-//                }
+//                    if (k == i || k == 1 || i == rows)
+//                    {
+//                        Console.Write("*");
+//                    }
+//                    else
+//                    {
+//                        Console.Write(" ");
+//                    }
+
 //                Console.WriteLine();
 //            }
 //        }

@@ -76,6 +76,7 @@
     <Compile Include="factorial.cs" />
     <Compile Include="factorial1.cs" />
     <Compile Include="FactorialofANumber.cs" />
+    <Compile Include="Fibonacci_serries.cs" />
     <Compile Include="ForEach1.cs" />
     <Compile Include="ForEach2.cs" />
     <Compile Include="ForEach3.cs" />
@@ -140,6 +141,8 @@
     <Compile Include="LP8OddorNot.cs" />
     <Compile Include="LP9EvenorNot.cs" />
     <Compile Include="IfElseIf.cs" />
+    <Compile Include="Method_Without_Parameters.cs" />
+    <Compile Include="Method_With_Parameters.cs" />
     <Compile Include="MultiLevel_Inheritence.cs" />
     <Compile Include="MultipleIf.cs" />
     <Compile Include="Multiple_If.cs" />
@@ -153,6 +156,7 @@
     <Compile Include="OOPS_Private.cs" />
     <Compile Include="OOPS_Protected .cs" />
     <Compile Include="OOPS_Public.cs" />
+    <Compile Include="OOPS_Variables.cs" />
     <Compile Include="oop_Void_Method_Calcution.cs" />
     <Compile Include="oops1.cs" />
     <Compile Include="Overloading_With_Differenttype_Parametrs.cs" />
@@ -163,6 +167,7 @@
     <Compile Include="Plindrome_Num.cs" />
     <Compile Include="PrimeNumber.cs" />
     <Compile Include="PrimeNumber1.cs" />
+    <Compile Include="Primenumber_or_not.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Property_OOPS.cs" />
@@ -172,11 +177,15 @@
     <Compile Include="Star5,5.cs" />
     <Compile Include="Star_Box.cs" />
     <Compile Include="Star_Diamond.cs" />
+    <Compile Include="Star_emptyRightagleTrangle .cs" />
     <Compile Include="Star_Hallow_Pyramid.cs" />
     <Compile Include="star_LeftAngleTriangle.cs" />
     <Compile Include="Star_Pyramind.cs" />
     <Compile Include="Star_ReverseTangle.cs" />
     <Compile Include="Star_Space_RightAngleTriangle.cs" />
+    <Compile Include="StringLength_WithoutLength.cs" />
+    <Compile Include="String_Count_Vowels.cs" />
+    <Compile Include="String_Reverse.cs" />
     <Compile Include="SumOfNumbers.cs" />
     <Compile Include="Switch_ATM_PIN.cs" />
     <Compile Include="Switch_Calculator.cs" />

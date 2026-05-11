@@ -20,7 +20,15 @@
 //                }
 //                for (int k = 1; k <= i; k++)
 //                {
-//                    Console.Write("*");
+//                    if (k == 1 || i == rows || k == i)
+//                    {
+//                        Console.Write("*");
+
+//                    }
+//                    else
+//                    {
+//                        Console.Write(" ");
+//                    }
 //                }
 //                Console.WriteLine();
 //            }
