@@ -144,6 +144,7 @@
     <Compile Include="Method_PrintName_WitoutVoid.cs" />
     <Compile Include="Method_Return_WithoutParameters.cs" />
     <Compile Include="Method_Without_Parameters.cs" />
+    <Compile Include="Method_WithRetrunType_WithParameters.cs" />
     <Compile Include="Method_With_Parameters.cs" />
     <Compile Include="MultiLevel_Inheritence.cs" />
     <Compile Include="MultipleIf.cs" />
