@@ -189,6 +189,7 @@
     <Compile Include="StringLength_WithoutLength.cs" />
     <Compile Include="String_Count_Vowels.cs" />
     <Compile Include="String_Reverse.cs" />
+    <Compile Include="StudeantDetails.cs" />
     <Compile Include="SumOfNumbers.cs" />
     <Compile Include="Switch_ATM_PIN.cs" />
     <Compile Include="Switch_Calculator.cs" />
