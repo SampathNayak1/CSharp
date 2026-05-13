@@ -6,48 +6,60 @@ using System.Threading.Tasks;
 
 namespace CSharp
 {
-    class Stundent
+
+    class Student
     {
-        static string collegename = "Narayana Junior College";
-        int Sid;
+
+        int Sid, Sage;
         string Sname;
-        byte Sage;
+        //static string College;
+        static string College = "ABC College ";
 
-        public void StudentDetails(int Sid, string Sname, byte Sage)
+        public void StudnetDetail()
         {
-            this.Sid = Sid;
-            this.Sname = Sname;
-            this.Sage = Sage;
+
+            Console.WriteLine("Enter Student Id : ");
+            Sid = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Enter Student Name : ");
+            Sname = Console.ReadLine();
+            Console.WriteLine("Enter Student Age : ");
+            Sage = Convert.ToInt32(Console.ReadLine());
+            //Console.WriteLine("Enter Student Collage : ");
+            //College = Console.ReadLine();
         }
-
-        public void Display()
+        public void Dispay()
         {
+            Console.WriteLine("Student Details are : ");
             Console.WriteLine("Student Id is : " + Sid);
             Console.WriteLine("Student Name is : " + Sname);
-            Console.WriteLine("Student Age is :  " + Sage);
-            Console.WriteLine("Stundent Collage is : " + collegename);
+            Console.WriteLine("Student Age is : " + Sage);
+            Console.WriteLine("Student Collage name is : " + College);
         }
-    }
-    internal class StudeantDetails
-    {
-        static void Main(string[] args)
+
+        internal class StudeantDetails
         {
-            Stundent std1= new Stundent();
-            std1.StudentDetails(1,"Ram",20);
-            std1.Display(); 
+            static void Main(string[] args)
+            {
+                Console.WriteLine("Enter the No of Student Details you wante to enter");
+                int n = Convert.ToInt32(Console.ReadLine());
+                Student[] students = new Student[n];
+                for (int i = 0; i < n; i++)
+                {
+                    students[i] = new Student();
+                    students[i].StudnetDetail();
+                }
 
-            std1.StudentDetails(2, "Sitha", 21);
-            std1.Display();
+                for (int i = 0; i < n; i++)
+                {
+                    students[i].Dispay();
+                }
+                Console.ReadLine();
+            }
 
-            std1.StudentDetails(3, "Lakman", 22);
-            std1.Display();
 
-            std1.StudentDetails(4, "Hanuma", 23);
-            std1.Display();
-
-            std1.StudentDetails(5, "Karna", 24);
-            std1.Display();
         }
     }
-   
 }
+
+
+
