@@ -73,6 +73,7 @@
     <Compile Include="Do_While_Loop2.cs" />
     <Compile Include="Do_While_Loop3.cs" />
     <Compile Include="Do_While_Loop4.cs" />
+    <Compile Include="EmployeeDetailsUsingClass .cs" />
     <Compile Include="factorial.cs" />
     <Compile Include="factorial1.cs" />
     <Compile Include="FactorialofANumber.cs" />
