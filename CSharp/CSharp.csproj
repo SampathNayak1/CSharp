@@ -175,6 +175,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Property_OOPS.cs" />
     <Compile Include="ReverseaNumber.cs" />
+    <Compile Include="SearchArray.cs" />
     <Compile Include="SingleInheritence_OOPS.cs" />
     <Compile Include="Sorting.cs" />
     <Compile Include="Star5,5.cs" />
