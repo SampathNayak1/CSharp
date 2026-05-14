@@ -69,6 +69,8 @@
     <Compile Include="Array_Multi_dimential1.cs" />
     <Compile Include="Array_Searching_Name_Age_Multi_Dimesinal.cs" />
     <Compile Include="Array_Smalest_Numbaer.cs" />
+    <Compile Include="Constructor.cs" />
+    <Compile Include="Constructor1.cs" />
     <Compile Include="Do_While_Loop1.cs" />
     <Compile Include="Do_While_Loop2.cs" />
     <Compile Include="Do_While_Loop3.cs" />
@@ -147,6 +149,7 @@
     <Compile Include="Method_Without_Parameters.cs" />
     <Compile Include="Method_WithRetrunType_WithParameters.cs" />
     <Compile Include="Method_With_Parameters.cs" />
+    <Compile Include="MultiCastDelegate.cs" />
     <Compile Include="MultiLevel_Inheritence.cs" />
     <Compile Include="MultipleIf.cs" />
     <Compile Include="Multiple_If.cs" />
