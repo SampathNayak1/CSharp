@@ -75,7 +75,9 @@
     <Compile Include="Do_While_Loop2.cs" />
     <Compile Include="Do_While_Loop3.cs" />
     <Compile Include="Do_While_Loop4.cs" />
+    <Compile Include="EmployeeConstructor.cs" />
     <Compile Include="EmployeeDetailsUsingClass .cs" />
+    <Compile Include="EmployeeParameterConstructor.cs" />
     <Compile Include="factorial.cs" />
     <Compile Include="factorial1.cs" />
     <Compile Include="FactorialofANumber.cs" />
@@ -97,6 +99,7 @@
     <Compile Include="Generic_Collection_Example1.cs" />
     <Compile Include="If-Else_If.cs" />
     <Compile Include="IfElseIfClass1.cs" />
+    <Compile Include="ImplicitDefault_Constructor.cs" />
     <Compile Include="LargestAmongThreeNumbers.cs" />
     <Compile Include="LB_112_Parameterized_Constructor.cs" />
     <Compile Include="LB_103_OOPS1.cs" />
@@ -209,6 +212,7 @@
     <Compile Include="Task_76.cs" />
     <Compile Include="Task_89.cs" />
     <Compile Include="Task_92.cs" />
+    <Compile Include="UserDefined_Constructor.cs" />
     <Compile Include="While_Loop1.cs" />
   </ItemGroup>
   <ItemGroup>
