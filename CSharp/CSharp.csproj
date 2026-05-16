@@ -69,6 +69,7 @@
     <Compile Include="Array_Multi_dimential1.cs" />
     <Compile Include="Array_Searching_Name_Age_Multi_Dimesinal.cs" />
     <Compile Include="Array_Smalest_Numbaer.cs" />
+    <Compile Include="CarParameterizedConstructor.cs" />
     <Compile Include="Constructor.cs" />
     <Compile Include="Constructor1.cs" />
     <Compile Include="Do_While_Loop1.cs" />
