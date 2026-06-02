@@ -1,0 +1,35 @@
+﻿//using System;
+//using System.Collections.Generic;
+//using System.Linq;
+//using System.Text;
+//using System.Threading.Tasks;
+
+//namespace CSharp
+//{
+//    internal class Star_Space_RightAngleTriangle
+//    {
+//        static void Main(string[] args)
+//        {
+//            Console.WriteLine("Enter the number of rows to print right angle trangle ");
+//            int rows = Convert.ToInt32(Console.ReadLine());
+//            for (int i = 1; i <= rows; i++)
+//            {
+//                for (int j = 1; j <= rows; j++)
+//                {
+//                    Console.Write(" ");
+//                }
+//                for (int k = 1; k <= i; k++)
+//                    if (k == i || k == 1 || i == rows)
+//                    {
+//                        Console.Write("*");
+//                    }
+//                    else
+//                    {
+//                        Console.Write(" ");
+//                    }
+
+//                Console.WriteLine();
+//            }
+//        }
+//    }
+//}
